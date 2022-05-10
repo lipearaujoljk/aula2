@@ -1,0 +1,23 @@
+o conjunto não possui itens repetidos 
+os objetos de um conjunto não são ordenados;
+os objetos de um conjunto não são modificaveis,excluir objetos ,cojunto e insserir outros;
+
+O TIPO DE UMA VARIAVEL PODE SER
+por atribuiça de um valor;
+por conver de tipos ;
+explicita;
+implici;
+
+A FUNÇÃO INPUT() FAZ COM QUE O VALOR ATRIBUIDO PELO TECLADO SEJA ARMAZENADO NA VARIAVELSEMPRE COMo STR
+
+a função print, permite a saida de dados no munitor;
+__________________________________________________________________________________________________________________________________________________________
+aula 15
+
+Objetos de diferentes tipos, a sintaxe adotadaa é
+funçao(parâmetros)
+LISTA
+listas armazenam multiplos objetos em uma unica variavel;
+cada objeto tem um indice, que indica sua posiçã dentro da lista;
+o indice rreferece ao primeiro elemento
+um objetom do tipo list é representado por colchetes
